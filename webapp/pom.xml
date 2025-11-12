@@ -62,3 +62,4 @@
 
 </project>
 
+Update pom.xml to use Java 17 compiler
